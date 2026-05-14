@@ -14,3 +14,4 @@ A powerful Bash script designed to automate server health monitoring and securit
    ```bash
    git clone [yessirkarim900-ai](https://github.com/yessirkarim900-ai/Linux-System-Auditor.git)
    cd Linux-System-Auditor
+![System Audit Screenshot](carbon.png)
