@@ -12,5 +12,5 @@ A powerful Bash script designed to automate server health monitoring and securit
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Linux-System-Auditor.git](https://github.com/YOUR_USERNAME/Linux-System-Auditor.git)
+   git clone [yessirkarim900-ai](https://github.com/yessirkarim900-ai/Linux-System-Auditor.git)
    cd Linux-System-Auditor
